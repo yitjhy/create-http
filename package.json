@@ -1,7 +1,7 @@
 {
-  "name": "create-http",
+  "name": "create-http-file",
   "version": "0.0.1",
-  "description": "create-http createhttp create-http-file",
+  "description": "create-http createhttp create-http-file createhttpfile",
   "keywords": [
     "create-http",
     "createhttp",
@@ -9,7 +9,7 @@
     "git"
   ],
   "bin": {
-    "create-http": "src/index.js"
+    "create-http-file": "src/index.js"
   },
   "scripts": {
     "start": "node src/index.js"
