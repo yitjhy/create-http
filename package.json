@@ -1,14 +1,15 @@
 {
-  "name": "create-http-file",
-  "version": "1.0.0",
-  "description": "createhttp create-http-file",
+  "name": "create-http",
+  "version": "0.0.1",
+  "description": "create-http createhttp create-http-file",
   "keywords": [
-    "git",
+    "create-http",
     "createhttp",
-    "create-http-file"
+    "create-http-file",
+    "git"
   ],
   "bin": {
-    "create-http-file": "src/index.js"
+    "create-http": "src/index.js"
   },
   "scripts": {
     "start": "node src/index.js"
