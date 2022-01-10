@@ -9,10 +9,10 @@
     "git"
   ],
   "bin": {
-    "create-http-file": "src/index.js"
+    "create-http-file": "bin/index.js"
   },
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node bin/index.js"
   },
   "repository": {
     "type": "git",
