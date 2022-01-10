@@ -7,7 +7,7 @@ const urlParser = require('url-parse');
 const _ = require('ramda');
 const moment = require('dayjs');
 
-const basePath = './http/api';
+const basePath = './http';
 
 const getSwaggerJson = (url) => {
   return axios.get(url)
